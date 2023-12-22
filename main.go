@@ -7,8 +7,6 @@ import (
 	"log"
 	"os"
 
-	// "strconv"
-
 	crdbpgx "github.com/cockroachdb/cockroach-go/v2/crdb/crdbpgxv5"
 	"github.com/jackc/pgx/v5"
 )
